@@ -33,7 +33,7 @@ const RegionBarChart = () => {
               cursor={{ fill: 'rgba(0,0,0,0.05)' }}
               contentStyle={{ borderRadius: '8px', border: 'none', boxShadow: 'var(--shadow-md)' }}
             />
-            <Bar dataKey="count" fill="#FCD116" radius={[4, 4, 0, 0]} />
+            <Bar dataKey="count" fill="#CE1126" radius={[4, 4, 0, 0]} />
           </BarChart>
         </ResponsiveContainer>
       </div>
