@@ -12,7 +12,7 @@ const Navbar = () => {
       <div className="container">
         <div className="nav-brand">
           <span role="img" aria-label="Ghana Flag">🇬🇭</span> 
-          Ghana MMDCEs 2025
+          Ghana MMDCEs
         </div>
         
         <div className={`nav-links ${isOpen ? 'open' : ''}`}>

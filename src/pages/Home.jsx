@@ -35,9 +35,9 @@ const Home = () => {
       <section style={{ backgroundColor: 'var(--card-bg)', padding: '5rem 1.5rem', textAlign: 'center', borderBottom: '1px solid var(--border-color)', marginBottom: '3rem' }}>
         <div className="container">
           <div style={{ fontSize: '4rem', marginBottom: '1rem' }}>🇬🇭</div>
-          <h1 style={{ fontSize: '3rem', marginBottom: '1rem' }}>Ghana MMDCEs 2025</h1>
+          <h1 style={{ fontSize: '3rem', marginBottom: '1rem' }}>Ghana MMDCEs</h1>
           <p style={{ fontSize: '1.25rem', color: 'var(--text-secondary)', maxWidth: '600px', margin: '0 auto', fontStyle: 'italic' }}>
-            Metropolitan, Municipal and District Chief Executives — Mahama Administration
+            Metropolitan, Municipal and District Chief Executives
           </p>
         </div>
       </section>

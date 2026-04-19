@@ -57,7 +57,7 @@ const DetailModal = ({ mmdce, onClose }) => {
         </div>
         
         <div style={{ padding: '1rem', backgroundColor: '#F9FAFB', borderRadius: 'var(--radius-md)', border: '1px solid var(--border-color)', fontSize: '0.875rem', color: 'var(--text-secondary)', fontStyle: 'italic', textAlign: 'center' }}>
-          Appointed under the Mahama Administration, 2025
+          Appointed MMDCE
         </div>
       </div>
     </div>
